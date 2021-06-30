@@ -58,3 +58,16 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+/Assets/Mirror/Examples
+/Assets/ScriptTemplates
+/MonoBleedingEdge
+/Project Space_Data
+/ProjectSettings
+/UserSettings
+/Assets/Mirror
+/Assets/TextMesh Pro
+/Project Space.exe
+/Project Space.ssln
+/.vsconfig
+/UnityCrashHandler32.exe
+/UnityPlayer.dll
